@@ -1,0 +1,20 @@
+{
+  "name": "wordpress-custom-post-type-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuavachon25/wordpress-custom-post-type-generator.git"
+  },
+  "keywords": [],
+  "author": "Joshua Vachon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuavachon25/wordpress-custom-post-type-generator/issues"
+  },
+  "homepage": "https://github.com/joshuavachon25/wordpress-custom-post-type-generator#readme"
+}
